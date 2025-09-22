@@ -1,0 +1,17 @@
+# Pastas de build
+bin/
+obj/
+
+# Arquivos de usuário e IDE
+*.user
+*.vs
+*.suo
+*.cache
+
+# DLLs e arquivos de depuração
+*.dll
+*.pdb
+*.exe
+
+# Configurações do Visual Studio Code
+.vscode/
