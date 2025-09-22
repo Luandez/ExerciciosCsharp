@@ -48,20 +48,20 @@ Resumo da verificação:
    ```
 
 ## 🧩 Conceitos utilizados
-- Entrada de dados com Console.ReadLine() Para capturar os números digitados pelo usuário.
+* Entrada de dados com Console.ReadLine() Para capturar os números digitados pelo usuário.
 
-- Conversão segura de dados com int.TryParse Para garantir que o usuário digite apenas números inteiros, evitando erros de execução.
+* Conversão segura de dados com int.TryParse Para garantir que o usuário digite apenas números inteiros, evitando erros de execução.
 
-- Estrutura de repetição while (validação de entrada) Usada tanto para validar a quantidade de números quanto cada número digitado.
+* Estrutura de repetição while (validação de entrada) Usada tanto para validar a quantidade de números quanto cada número digitado.
 
-- Estrutura de repetição for Para percorrer a quantidade de números informada pelo usuário.
+* Estrutura de repetição for Para percorrer a quantidade de números informada pelo usuário.
 
-- Estrutura condicional if...else Para verificar se cada número é par ou ímpar.
+* Estrutura condicional if...else Para verificar se cada número é par ou ímpar.
 
-- Operador módulo % Utilizado para descobrir o resto da divisão por 2 e, assim, determinar se o número é par ou ímpar.
+* Operador módulo % Utilizado para descobrir o resto da divisão por 2 e, assim, determinar se o número é par ou ímpar.
 
-- Contadores (par++, impar++) Para acumular a quantidade de números pares e ímpares digitados.
+* Contadores (par++, impar++) Para acumular a quantidade de números pares e ímpares digitados.
 
-- Saída formatada com Console.WriteLine() Para exibir mensagens claras e amigáveis ao usuário, incluindo o resumo final.
+* Saída formatada com Console.WriteLine() Para exibir mensagens claras e amigáveis ao usuário, incluindo o resumo final.
 
-- Uso de Console.Clear() Para limpar a tela e deixar a execução mais organizada.
+* Uso de Console.Clear() Para limpar a tela e deixar a execução mais organizada.
