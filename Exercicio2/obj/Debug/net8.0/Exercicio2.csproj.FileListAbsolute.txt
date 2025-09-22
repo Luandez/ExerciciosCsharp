@@ -1,0 +1,15 @@
+/workspaces/ExerciciosCsharp/Exercicio2/bin/Debug/net8.0/Exercicio2
+/workspaces/ExerciciosCsharp/Exercicio2/bin/Debug/net8.0/Exercicio2.deps.json
+/workspaces/ExerciciosCsharp/Exercicio2/bin/Debug/net8.0/Exercicio2.runtimeconfig.json
+/workspaces/ExerciciosCsharp/Exercicio2/bin/Debug/net8.0/Exercicio2.dll
+/workspaces/ExerciciosCsharp/Exercicio2/bin/Debug/net8.0/Exercicio2.pdb
+/workspaces/ExerciciosCsharp/Exercicio2/obj/Debug/net8.0/Exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ExerciciosCsharp/Exercicio2/obj/Debug/net8.0/Exercicio2.AssemblyInfoInputs.cache
+/workspaces/ExerciciosCsharp/Exercicio2/obj/Debug/net8.0/Exercicio2.AssemblyInfo.cs
+/workspaces/ExerciciosCsharp/Exercicio2/obj/Debug/net8.0/Exercicio2.csproj.CoreCompileInputs.cache
+/workspaces/ExerciciosCsharp/Exercicio2/obj/Debug/net8.0/Exercicio2.sourcelink.json
+/workspaces/ExerciciosCsharp/Exercicio2/obj/Debug/net8.0/Exercicio2.dll
+/workspaces/ExerciciosCsharp/Exercicio2/obj/Debug/net8.0/refint/Exercicio2.dll
+/workspaces/ExerciciosCsharp/Exercicio2/obj/Debug/net8.0/Exercicio2.pdb
+/workspaces/ExerciciosCsharp/Exercicio2/obj/Debug/net8.0/Exercicio2.genruntimeconfig.cache
+/workspaces/ExerciciosCsharp/Exercicio2/obj/Debug/net8.0/ref/Exercicio2.dll
