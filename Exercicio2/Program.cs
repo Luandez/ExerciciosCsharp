@@ -15,7 +15,7 @@ class Program
             Console.WriteLine("Digite um numero N para calcular a tabuada dele: ");
             int numTabuada = int.Parse(Console.ReadLine());
 
-            for (int i = 0; i < 11; i++)
+            for (int i = 1; i < 11; i++)
             {
                 resultado = i * numTabuada;
                 Console.WriteLine($"{i} X {numTabuada} = {resultado}");
