@@ -27,9 +27,39 @@ Resumo da verificação:
 🔹 Pares: 3
 🔹 Ímpares: 2
 
+## ▶️ Como executar
+
+1. Clone este repositório:
+
+   ```bash
+   git clone https://github.com/Luandez/ExerciciosCsharp.git
+   ```
+2. Acesse a pasta do exercício:
+
+   ```bash
+   cd Iniciante/Exercicio3
+   ```
+3. Execute o projeto:
+
+   ```bash
+   dotnet run
+   ```
+
 ## 🧩 Conceitos utilizados
-- Estrutura de repetição `for`
-- Estrutura condicional `if...else`
-- Operador módulo `%` (resto da divisão)
-- Contadores para registrar pares e ímpares
-- Entrada de dados com `Console.ReadLine()`
+- Entrada de dados com Console.ReadLine() Para capturar os números digitados pelo usuário.
+
+- Conversão segura de dados com int.TryParse Para garantir que o usuário digite apenas números inteiros, evitando erros de execução.
+
+- Estrutura de repetição while (validação de entrada) Usada tanto para validar a quantidade de números quanto cada número digitado.
+
+- Estrutura de repetição for Para percorrer a quantidade de números informada pelo usuário.
+
+- Estrutura condicional if...else Para verificar se cada número é par ou ímpar.
+
+- Operador módulo % Utilizado para descobrir o resto da divisão por 2 e, assim, determinar se o número é par ou ímpar.
+
+- Contadores (par++, impar++) Para acumular a quantidade de números pares e ímpares digitados.
+
+- Saída formatada com Console.WriteLine() Para exibir mensagens claras e amigáveis ao usuário, incluindo o resumo final.
+
+- Uso de Console.Clear() Para limpar a tela e deixar a execução mais organizada.
