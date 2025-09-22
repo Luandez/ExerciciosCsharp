@@ -1,4 +1,4 @@
-# 📚 Tabuada em C / #
+# 📚 Tabuada em C#
 
 Programa em **C#** que calcula a tabuada de um número informado pelo usuário.
 O usuário pode repetir a operação quantas vezes quiser até escolher sair.
