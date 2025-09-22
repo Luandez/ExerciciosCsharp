@@ -1,4 +1,4 @@
-# 📌 Exercício 3 - Verificação de Números Pares e Ímpares
+### 📌 Exercício 3 - Verificação de Números Pares e Ímpares
 
 Este programa em **C#** solicita ao usuário uma quantidade de números, depois lê cada número digitado e informa se ele é **par** ou **ímpar**.  
 Ao final, apresenta um resumo com a contagem total de números pares e ímpares.
