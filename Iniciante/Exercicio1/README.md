@@ -61,7 +61,7 @@ Deseja usar este resultado na próxima operação? (s/n): s
 2. Acesse a pasta da calculadora:
 
    ```bash
-   cd ExerciciosCsharp/Calculadora
+   cd ExerciciosCsharp/Exercicio1
    ```
 3. Compile e execute:
 
