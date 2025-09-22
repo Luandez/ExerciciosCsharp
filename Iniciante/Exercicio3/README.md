@@ -4,6 +4,7 @@ Este programa em **C#** solicita ao usuário uma quantidade de números, depois 
 Ao final, apresenta um resumo com a contagem total de números pares e ímpares.
 
 ## 🖥️ Exemplo de execução
+```
 === Verificação de Números Pares e Ímpares ===
 Quantos números você deseja verificar? 5
 
@@ -26,6 +27,7 @@ Resumo da verificação:
 🔹 Total de números: 5
 🔹 Pares: 3
 🔹 Ímpares: 2
+```
 
 ## ▶️ Como executar
 
