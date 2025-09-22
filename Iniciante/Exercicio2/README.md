@@ -42,7 +42,7 @@ Encerrando o programa...
 2. Acesse a pasta do exercício:
 
    ```bash
-   cd Iniciante/Exercicio2-Tabuada
+   cd Iniciante/Exercicio2
    ```
 3. Execute o projeto:
 
