@@ -62,6 +62,7 @@ O valor do circulo: 28,27.
 - Estrutura de um programa em **C#**.  
 - Criação e chamada de **funções/métodos**.  
 - Uso do `switch` para controle de fluxo.  
+- Uso de do while para saber se o usuario quer continuar ou não o programa
 - Entrada de dados pelo `Console.ReadLine()`.  
 - Operações matemáticas com `Math.PI` e `Math.Pow()`.  
 
