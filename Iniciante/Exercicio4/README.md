@@ -19,7 +19,8 @@ Ele utiliza funções específicas para cada cálculo, deixando o código mais o
    - `raio`
 2. O usuário digita a opção desejada.  
 3. O programa solicita os valores necessários (lado, base, altura ou raio).  
-4. Exibe o resultado do cálculo na tela.  
+4. Exibe o resultado do cálculo na tela.
+5. Pergunta se o usuario quer continuar (s/n) se (s) o programa volta desde o comeco, se (n) o programa é finalizado.
 
 ---
 
@@ -62,7 +63,7 @@ O valor do circulo: 28,27.
 - Estrutura de um programa em **C#**.  
 - Criação e chamada de **funções/métodos**.  
 - Uso do `switch` para controle de fluxo.  
-- Uso de do while para saber se o usuario quer continuar ou não o programa
+- Uso de `do while` para saber se o usuario quer continuar ou não o programa.
 - Entrada de dados pelo `Console.ReadLine()`.  
 - Operações matemáticas com `Math.PI` e `Math.Pow()`.  
 
